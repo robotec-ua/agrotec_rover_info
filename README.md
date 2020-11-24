@@ -1,5 +1,9 @@
 # Weed Removal Rover by Agrotec
 
+<p align="center">
+  <img src="https://github.com/robotec-ua/agrotec_rover_info/blob/main/docs/images/model.jpg" />
+</p>
+
 The amount of big farms is enormous. Because of their size, it's difficult to maintain a high level of quality of the products, the farm produces, using only human's efforts. 
 
 Because of that Robotec's division "Agrotec", that develops modern robot solutions for the agronomic field, created an eco-friendly robot, which can easily detect any type of weed at amusingly high speed (2 m/s or 4.47 mph) and remove it without chemicals.
